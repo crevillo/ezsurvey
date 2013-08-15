@@ -593,6 +593,4 @@ class eZSurveyType extends eZDataType
 
 }
 
-eZDataType::register( eZSurveyType::DATA_TYPE_STRING, "eZSurveyType" );
-
 ?>

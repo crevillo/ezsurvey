@@ -1,8 +1,7 @@
 <?php /* #?ini charset="utf-8"?
 
 [DataTypeSettings]
-ExtensionDirectories[]=ezsurvey
-AvailableDataTypes[]=ezsurvey
+AvailableDataTypes[ezsurvey]=eZSurveyType
 
 [CustomTagSettings]
 AvailableCustomTags[]=survey
